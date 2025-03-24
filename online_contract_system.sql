@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:3306
--- Generation Time: Mar 25, 2025 at 01:08 AM
+-- Generation Time: Mar 25, 2025 at 01:30 AM
 -- Server version: 8.0.30
 -- PHP Version: 8.3.14
 
@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `agreemate`
+-- Database: `online_contract_system`
 --
 
 -- --------------------------------------------------------
@@ -251,7 +251,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `contact`, `email_verified_at`, `password`, `role`, `remember_token`, `created_at`, `updated_at`) VALUES
-(1, 'Admin', 'forms@whitefieldestateagents.co.uk', '', '2025-03-24 20:07:44', '$2y$10$3xZVwsXCvlOxipI3UZPU7.jCf9S1Z/ASXznNYtLZaEjeFWslTJu4W', 'admin', 'MJARoWyNK1', '2025-03-24 20:07:44', '2025-03-24 20:07:44');
+(1, 'Admin', 'forms@whitefieldestateagents.co.uk', '', '2025-03-24 20:29:57', '$2y$10$yZltdy4xzGKVOaxvcj5fYOuSpOvfO3udz0c0ikpwPOTAQUSn.9xsG', 'admin', 'TjzAI8tqNa', '2025-03-24 20:29:57', '2025-03-24 20:29:57');
 
 --
 -- Indexes for dumped tables

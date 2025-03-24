@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Agreemate</title>
+    <title>Online Contract System</title>
 </head>
 
 <body>
@@ -13,7 +13,7 @@
     <p>Hi,</p>
     <p>{{ $Data['body'] }}</p>
     <p>Thank you,<br>
-        Agreemate Team
+        Online Contract System Team
     </p>
 </body>
 

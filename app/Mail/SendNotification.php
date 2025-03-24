@@ -31,7 +31,7 @@ class SendNotification extends Mailable
     public function build()
     {
         // return $this->view('view.name');
-        return $this->from("sample@gmail.com","Agreemate")
+        return $this->from("sample@gmail.com","Online Contract System")
         ->subject("This is a Sample Subject")
         ->view('emails.contract-notification')
         ->with("data",$this->data);
